@@ -19,6 +19,9 @@ I am a passionate developer with a keen interest in Machine Learning and Data Sc
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkpro18&layout=compact&theme=radical)
 
+<img src="https://myreadme.vercel.app/api/embed/kkpro?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+
 ## Recent Activity
 
 <!--START_SECTION:activity-->
