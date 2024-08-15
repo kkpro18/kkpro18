@@ -6,10 +6,10 @@
 
 I am a passionate developer with a keen interest in Machine Learning and Data Science. I enjoy working on open-source projects and collaborating with the developer community.
 
-- 🔭 I’m currently working on an OSINT Project: Risk Scoring Email Addresses (Machine Learning)
-- 🌱 I’m currently learning Machine Learning and Data Science.
-- 👯 I’m looking to collaborate on Data Science Projects focusing on regression and classification problems.
-- 🤔 I’m looking for help with Fine-Tuning XGB Models.
+- 🔭 I’m currently working on an News Scraping Project with Scala
+- 🌱 I’m currently learning Machine Learning, Data Science and Data Analytics.
+- 👯 I’m looking to collaborate on Data Scraping, Data Analytics and Data Science Projects.
+- 🤔 I’m looking for help with Data Analytics.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I support Right to Repair!
 
@@ -19,7 +19,7 @@ I am a passionate developer with a keen interest in Machine Learning and Data Sc
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkpro18&layout=compact&theme=radical)
 
-![More Details](https://myreadme.vercel.app/api/embed/kkpro?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+![More Details](https://myreadme.vercel.app/api/embed/kkpro18?panels=toplanguages,commitgraph)
 
 
 ## Recent Activity
